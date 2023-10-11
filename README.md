@@ -6,7 +6,6 @@ Real-time fabric defect segmentation using YOLOV8.
 
 ## Project Structure
 ├── config
-
 │   └── custom.yaml    
 
 ├── data
