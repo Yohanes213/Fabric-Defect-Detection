@@ -1,0 +1,7 @@
+path: '/content/driver/MyDrive/fabric defect'
+train: './train/images'
+val: './valid/images'
+test: './test/images'
+
+nc: 2
+names: ['cut', 'hole']
